@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou Matheus 👋
 
-<!--
-**MatheusPesarini/MatheusPesarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor full-stack com foco em **React** e **Node.js**.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim:
+- 🔭 Atualmente estou trabalhando no meu portfólio de desenvolvedor e outros projetos
+- 🌱 Aprendendo mais sobre **Node** e **React**
+- 💬 Me pergunte sobre: Desenvolvimento web, APIs
+- 🌐 [Meu Portfólio](https://matheuspesarini.github.io/)
+- 📫 Contato: mrogeriopesarini@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Ferramentas:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
