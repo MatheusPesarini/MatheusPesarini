@@ -4,7 +4,7 @@ Sou desenvolvedor full-stack com foco em **React** e **Node.js**.
 
 ### 🚀 Sobre mim:
 - 🔭 Atualmente estou trabalhando no meu portfólio de desenvolvedor e outros projetos
-- 🌱 Aprendendo mais sobre **Node** e **React**
+- 🌱 Aprendendo mais sobre **Node**, **React** e **Java**
 - 💬 Me pergunte sobre: Desenvolvimento web, APIs
 - 🌐 [Meu Portfólio](https://matheuspesarini.github.io/)
 - 📫 Contato: mrogeriopesarini@gmail.com
