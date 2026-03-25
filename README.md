@@ -1,10 +1,10 @@
 # Olá, eu sou Matheus 👋
 
-Sou desenvolvedor full-stack com foco em **React** e **Node.js**.
+Sou desenvolvedor full-stack com foco em **React**, **Node.js**, **.NET** e **Java** .
 
 ### 🚀 Sobre mim:
 - 🔭 Atualmente estou trabalhando no meu portfólio de desenvolvedor e outros projetos
-- 🌱 Aprendendo mais sobre **Next.JS**, **Nest.JS**, **Java Spring** e **Flutter**
+- 🌱 Aprendendo mais sobre **React** e **.NET**
 - 💬 Me pergunte sobre: Desenvolvimento web, APIs e Back-End
 - 🌐 [Meu Portfólio](https://matheuspesarini.github.io/)
 - 📫 Contato: mrogeriopesarini@gmail.com
